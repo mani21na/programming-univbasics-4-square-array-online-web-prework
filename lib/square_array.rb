@@ -5,5 +5,5 @@ def square_array(array)
     array[number] = array[number]**2
     number += 1
   end
-  puts array
+  
 end
